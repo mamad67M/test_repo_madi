@@ -13,8 +13,9 @@ page 50137 "ma page madi"
             {
                 field(Name; NameSource)
                 {
-                  // ceci est un changement dans ma page 
-                  // recupération de la modif
+                    // ceci est un changement dans ma page 
+                    // recupération de la modif
+                    //new future
                 }
             }
         }
