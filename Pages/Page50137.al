@@ -16,6 +16,10 @@ page 50137 "ma page madi"
                     // ceci est un changement dans ma page 
                     // recupération de la modif
                     //new future
+
+
+
+                    //new  du deuxieme future
                 }
             }
         }
